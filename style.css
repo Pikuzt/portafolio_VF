@@ -1,0 +1,26 @@
+.text{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trabajo{
+    padding: 2rem;
+    margin: 1rem;
+    background-color: white;
+}
+.presentacion{
+    background-color: white;
+}
+.Proyectos{
+    background-color: wheat;
+}
+.card-p{
+    width: 50% !important;
+    text-align: center;
+}
+
+#particles-js {
+    background: cornflowerblue;
+  }
