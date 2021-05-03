@@ -24,3 +24,11 @@
 #particles-js {
     background: cornflowerblue;
   }
+
+  .img-due{
+      border-radius: 100%;
+  }
+
+  .img-p{
+      border-radius: 20px;
+  }
